@@ -1,6 +1,14 @@
 [
 	{
 		"isAnimeMaintenance": false,
-		"isMovieMaintenance": true
+		"isAnimeMessage": {
+			"title": "",
+			"message": ""
+		},
+		"isMovieMaintenance": true,
+		"isMovieMessage": {
+			"title": "Movie/TV Series Unavailable",
+			"message": "We apologize for the inconvenience. Streaming and other features are currently unavailable due to a system upgrade. Please try again later. Thank you for your understanding."
+		}
 	}
 ]
